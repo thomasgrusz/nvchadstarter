@@ -13,6 +13,7 @@ local options = {
     c = { "clang_format" },
     cpp = { "clang_format" },
     rust = { "rustfmt" }, -- do not use with rustaceanvim plugin
+    markdown = { "prettier" },
   },
 
   format_on_save = {

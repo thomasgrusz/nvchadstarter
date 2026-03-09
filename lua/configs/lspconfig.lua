@@ -10,6 +10,7 @@ local servers = {
   "pyright",
   "clangd",
   "rust_analyzer", -- do not use with rustaceanvim plugin
+  "marksman",
   -- Optional but highly recommended for web dev:
   -- "tailwindcss",   -- if you use Tailwind
   -- "emmet_ls",      -- Emmet abbreviations
